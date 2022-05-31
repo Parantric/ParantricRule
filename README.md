@@ -16,3 +16,9 @@ https://sub.rxsmw.top/sub?target=clash&new_name=true&url=%URL%&config=%CONFIG%
 
 - `URL` : 表示订阅地址（需要经过 [URLEncode](https://www.urlencoder.org/) 处理）
 - `CONFIG`: 表示外部配置地址（需要经过 [URLEncode](https://www.urlencoder.org/) 处理）
+
+#### 参考
+
+:bookmark: [**ImAubrey**](https://github.com/ImAubrey/ImAubrey)
+
+:bookmark: [**老王订阅地址转化**](https://sub.rxsmw.top/)
