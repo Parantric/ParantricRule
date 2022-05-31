@@ -22,3 +22,5 @@ https://sub.rxsmw.top/sub?target=clash&new_name=true&url=%URL%&config=%CONFIG%
 :bookmark: [**ImAubrey**](https://github.com/ImAubrey/ImAubrey)
 
 :bookmark: [**老王订阅地址转化**](https://sub.rxsmw.top/)
+
+:bookmark: [**select、load-balance、url-test和fallback说明**](https://blankmagic.github.io/2021/05/07/Surge-%E8%BD%AC%E5%8F%91-%E7%AD%96%E7%95%A5%E5%92%8C%E8%A7%84%E5%88%99/)
