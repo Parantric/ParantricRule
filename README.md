@@ -1,6 +1,6 @@
 # Parantric Lim`s CFW Configuration
 
-![artwork_141203](F:\Syn_Cache\同步空间\download_cache\artwork_141203.jpg)
+![](https://raw.githubusercontent.com/Parantric/picture-bed/main/202206082002250.jpg)
 
 ------
 
