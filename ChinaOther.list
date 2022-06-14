@@ -19,33 +19,33 @@ DOMAIN-SUFFIX,pexels.com
 DOMAIN-SUFFIX,abskoop.com
 
 # LAN
-DOMAIN,injections.adguard.org,DIRECT
-DOMAIN,local.adguard.org,DIRECT
-DOMAIN-SUFFIX,local,DIRECT
+DOMAIN,injections.adguard.org
+DOMAIN,local.adguard.org
+DOMAIN-SUFFIX,local
 
-DOMAIN-SUFFIX,mzstatic.com,DIRECT
-DOMAIN-SUFFIX,itunes.apple.com,DIRECT
-DOMAIN-SUFFIX,icloud.com,DIRECT
-DOMAIN-SUFFIX,icloud-content.com,DIRECT
-DOMAIN-SUFme.com,DIRECT
-DOMAIN-SUFFIX,aaplimg.com,DIRECT
-DOMAIN-SUFFIX,cdn20.com,DIRECT
-DOMAIN-SUFFIX,cdn-apple.com,DIRECT
-DOMAIN-SUFFIX,akadns.net,DIRECT
-DOMAIN-SUFFIX,akamaiedge.net,DIRECT
-DOMAIN-SUFFIX,edgekey.net,DIRECT
-DOMAIN-SUFFIX,mwcloudcdn.com,DIRECT
-DOMAIN-SUFFIX,mwcname.com,DIRECT
-DOMAIN-SUFFIX,apple.com,DIRECT
-DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
-DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFme.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,cdn20.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,mwcloudcdn.com
+DOMAIN-SUFFIX,mwcname.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-mapkit.com
 
-DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
-DOMAIN,safebrowsing.googleapis.com,DIRECT
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,safebrowsing.googleapis.com
 
 # Google play
-DOMAIN,services.googleapis.cn,DIRECT
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+DOMAIN,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 
-GEOIP,CN,DIRECT
+GEOIP,CN
