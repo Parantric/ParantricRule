@@ -17,7 +17,7 @@ https://sub.rxsmw.top/sub?target=clash&new_name=true&url=%URL%&config=%CONFIG%
 - `URL` : 表示订阅地址（需要经过 [URLEncode](https://www.urlencoder.org/) 处理）
 - `CONFIG`: 表示外部配置地址（需要经过 [URLEncode](https://www.urlencoder.org/) 处理）
 
-:bell: 个人`**Config**`文件转码后`**URL**`：
+:bell: 个人**`Config`**文件转码后**`URL`**：
 
 ```yaml
 https%3A%2F%2Fraw.githubusercontent.com%2FParantric%2FParantricRule%2Fmain%2FParantricRuleProfile.ini
