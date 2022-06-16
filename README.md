@@ -1,6 +1,6 @@
 # Parantric Lim`s CFW Configuration
 
-![](https://raw.githubusercontent.com/Parantric/picture-bed/main/202206082002250.jpg)
+![](https://raw.githubusercontent.com/Parantric/picture-bed/main/202206170400938.jpg)
 
 ------
 
